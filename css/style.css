@@ -1,0 +1,128 @@
+
+body {
+    background-color: #eee;
+}
+.divCenter{
+    margin: 10px;
+    text-align: center;
+}
+.btn-info{
+    width: 80%;
+    background-color: rgba(255, 0, 0, 0.66);
+    border-color: rgba(255, 0, 0, 0.66);
+
+}
+.btn-primary{
+    background-color: rgba(255, 0, 0, 0.66);
+    border-color: rgba(255, 0, 0, 0.66);
+
+}
+.btn-primary:hover{
+    background-color: rgba(255, 0, 0, 0.76);
+    border-color: rgba(255, 0, 0, 0.51);
+}
+.btn-primary{
+    ackground-color: rgba(255, 0, 0, 0.76);
+    border-color: rgba(255, 0, 0, 0.51);
+}
+.btn-secondary{
+    margin-left: 10%;
+    width: 80%;
+}
+.btn-info:hover{
+
+    background-color: rgba(255, 0, 0, 0.76);
+    border-color: rgba(255, 0, 0, 0.51);
+
+}
+.btn-info:active{
+
+    background-color: rgba(255, 0, 0, 0.76);
+    border-color: rgba(255, 0, 0, 0.51);
+}
+#divcard{
+
+    margin: auto;
+    width:35%;
+    padding: 20px;
+    margin-top: 100px;
+ }
+
+span{
+    color: darkgray;
+    margin: 10px;
+    display:block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 90%;
+}
+#images_list{
+    width: 95%;
+  margin-left: 5%;
+}
+.col-md-2 col-sm-6{
+    padding-right: 0;
+    padding-left: 0;
+}
+.hiddenDetails{
+    display:block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 90%;
+}
+.cardView{
+    margin:5px;
+    border-width: 1px;
+    border-style: groove;
+    border-radius: 7px;
+    border-color: rgba(255, 0, 0, 0.66);
+    padding: 0;
+    background-color: white;
+}
+a{
+    color: #8a8a8a;
+}
+.btnCart{
+
+}
+.bg-light {
+    background-color: rgba(255, 0, 0, 0.66) !important;
+}
+.nav-link{
+    color: #e8e5e5 !important;
+}
+.btnd{
+    width: 20%;
+    float: right;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 0;
+}
+.btne{
+    width: 20%;
+    float: right;
+    padding:0;
+    margin-bottom: 10px;
+}
+.navbar-light .navbar-brand {
+    color: rgb(255, 255, 255);
+
+}
+.navbar-light .navbar-brand:hover {
+    color: rgb(187, 187, 187);
+
+}
+#view_details{
+
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+}
+h6{
+    margin-left: 10px;
+}
